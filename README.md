@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/saadrilamin1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadrilamin1999" height="30" width="40" /></a>
 <a href="https://fb.com/sadrilamin1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadrilamin1999/" height="30" width="40" /></a>
-<a href="mailto:sadrilamin.developer@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" alt="sadrilamin1999/" height="40" width="40" background-color: #0969da; !important"/></a>  
+<a href="mailto:sadrilamin.developer@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" alt="sadrilamin1999/" height="40" width="40" background-color: #0969da !important;"/></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
